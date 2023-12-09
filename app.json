@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f194a9b9-ebe2-490d-aa63-0159aab4d2c7"
+      }
+    },
+    "owner": "fernandova"
   }
 }
